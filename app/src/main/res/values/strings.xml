@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">material_design</string>
+    <string name="hello_world">Hello World</string>
+    <string name="next">next</string>
+    <string name="app_settings">app settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+</resources>
